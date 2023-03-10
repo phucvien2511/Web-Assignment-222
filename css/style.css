@@ -64,10 +64,17 @@
     height: 250px;
     margin: 10px;
 }
+
+.top-card:hover {
+    box-shadow: 2px 2px 2px 0 lightgray;
+}
 .bottom-card {
     width: 280px;
     height: 425px;
     margin: 10px;
+}
+.bottom-card:hover {
+    box-shadow: 2px 2px 2px 0 lightgray;
 }
 .category-title {
     font-size: 30px;
